@@ -1,0 +1,6 @@
+In order to run the Flex application, download it and place it on your local file system.
+
+The directory that holds the Flex application needs to be a "trusted site". Use the Security Manager to mark that directory as trusted:
+   http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html
+
+Enjoy!
